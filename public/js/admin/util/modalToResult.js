@@ -1,0 +1,1 @@
+$('#exampleModal').appendTo("#result");

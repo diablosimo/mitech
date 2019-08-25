@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="JetBrains FTP Server">
+    <serverData>
+      <paths name="JetBrains FTP Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mitech" local="$PROJECT_DIR$/public" web="/" />
+            <mapping deploy="/mitech/site/application" local="$PROJECT_DIR$/app" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="awardspace">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
